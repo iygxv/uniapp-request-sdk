@@ -1,0 +1,8 @@
+{
+  "name": "uniapp-request-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:iygxv/uniapp-request-sdk.git",
+  "author": "sy <871772825@qq.com>",
+  "license": "MIT"
+}
